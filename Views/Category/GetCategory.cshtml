@@ -1,0 +1,30 @@
+﻿@model FoodCore.Data.Models.Category    
+@{
+    ViewData["Title"] = "GetCategory";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Category Update Page</h2>
+
+<br/>
+
+@using (Html.BeginForm("UpdateCategory", "Category", FormMethod.Post))
+{
+    @Html.LabelFor(x=>x.CategoryID)
+    @Html.TextBoxFor(x=>x.CategoryID,new {@class="form-control"})
+
+    @Html.LabelFor(x=>x.CategoryName)
+    @Html.TextBoxFor(x=>x.CategoryName,new {@class="form-control"})
+    @Html.ValidationMessageFor(x=>x.CategoryName,"",new {@style="color:red"})
+    <br/>
+
+    @Html.LabelFor(x=>x.CategoryDescription)
+    @Html.TextBoxFor(x=>x.CategoryDescription,new {@class="form-control"})
+
+    <br/>
+
+    <button class="btn btn-info">Update</button>
+
+
+}
+

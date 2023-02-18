@@ -1,0 +1,44 @@
+﻿@model List<FoodCore.Data.Models.Category>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Category List</h2>
+<br/>
+
+@using (Html.BeginForm())
+{
+    <p>
+        Food Name:@Html.TextBox("p")
+        <input type="submit" value="Find"/>
+    </p>
+}
+
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>Category Name</th>
+        <th>Category Description</th>
+        <th>Status</th>
+        <th>Delete</th>
+        <th>Update</th>
+
+            @foreach (var cateogry in Model)
+            {
+                <tr>
+
+                    <td>@cateogry.CategoryID</td>
+                    <td>@cateogry.CategoryName</td>
+                    <td>@cateogry.CategoryDescription</td>
+                    <td>@cateogry.Status</td>
+                    <td><a href="/Category/DeleteCategory?categoryID=@cateogry.CategoryID" class="btn btn-danger">Delete</a></td>
+                    <td><a href="/Category/GetCategory?categoryID=@cateogry.CategoryID" class="btn btn-success">Update</a></td>
+                </tr>            
+            }
+    </tr>
+</table>
+
+<a href="/Category/AddCategory/" class="btn btn-info">Add New Category</a>
+
+

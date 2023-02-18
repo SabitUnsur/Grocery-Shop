@@ -1,0 +1,25 @@
+﻿@model FoodCore.Data.Models.Category
+@{
+    ViewData["Title"] = "AddCategory";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Category Add Page</h2>
+
+<br/>
+
+@using(Html.BeginForm("AddCategory","Category",FormMethod.Post))
+{
+    @Html.LabelFor(x=>x.CategoryName)
+    <input type="text" class="form-control" name="CategoryName" required="" maxlength="30" />
+    <br/>
+
+    @Html.LabelFor(x=>x.CategoryDescription)
+    @Html.TextBoxFor(x=>x.CategoryDescription,new {@class="form-control"})
+
+    <br/>
+
+    <button class="btn btn-info">Save</button>
+
+
+}

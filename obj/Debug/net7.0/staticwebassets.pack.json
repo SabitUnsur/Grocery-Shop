@@ -1,0 +1,2053 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FoodCore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FoodCore.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\.gitattributes",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\.gitattributes"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\Yeni Metin Belgesi.txt",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\Yeni Metin Belgesi.txt"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\css\\clndr.css",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\css\\clndr.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\css\\jqvmap.css",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\css\\jqvmap.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\css\\nav.css",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\css\\nav.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\css\\style.css",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\images\\ar2.png",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\images\\ar2.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\images\\arrows.png",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\images\\arrows.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\images\\avatar.jpg",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\images\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\images\\avatar1.jpg",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\images\\avatar1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\images\\avatar2.jpg",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\images\\avatar2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\images\\img-sprite.png",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\images\\img-sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\images\\into.png",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\images\\into.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\images\\into1.png",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\images\\into1.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\images\\logo.png",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\images\\pp.jpg",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\images\\pp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\images\\pp0.jpg",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\images\\pp0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\images\\pp01.jpg",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\images\\pp01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\images\\settings.png",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\images\\settings.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\images\\tick-mark.png",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\images\\tick-mark.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\index.html",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\js\\Chart1.js",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\js\\Chart1.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\js\\clndr.js",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\js\\clndr.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\js\\easyResponsiveTabs.js",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\js\\easyResponsiveTabs.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\js\\jquery.easydropdown.js",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\js\\jquery.easydropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\js\\jquery.nicescroll.js",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\js\\jquery.nicescroll.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\js\\jquery.vmap.js",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\js\\jquery.vmap.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\js\\jquery.vmap.sampledata.js",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\js\\jquery.vmap.sampledata.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\js\\jquery.vmap.world.js",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\js\\jquery.vmap.world.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\js\\main.js",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\js\\moment-2.2.1.js",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\js\\moment-2.2.1.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\js\\site.js",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\js\\underscore-min.js",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\js\\underscore-min.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\resimler\\book1.jpg",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\resimler\\book1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\resimler\\book2.jpg",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\resimler\\book2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\resimler\\book3.jpg",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\resimler\\book3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\resimler\\book4.jpg",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\resimler\\book4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\resimler\\book5.jpg",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\resimler\\book5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\resimler\\img1.jpg",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\resimler\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\CoreTemplateWeb2-master\\w3layouts-License.txt",
+      "PackagePath": "staticwebassets\\CoreTemplateWeb2-master\\w3layouts-License.txt"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\css\\main.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\css\\util.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\css\\util.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\iconic\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\iconic\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\iconic\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\fonts\\poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\images\\295128.png",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\images\\295128.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\images\\avatar-01.jpg",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\images\\avatar-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\images\\icons\\favicon.ico",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\images\\icons\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\index.html",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\js\\main.js",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\Login_v6\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\login-form-v6\\Login_v6\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\._Login_v6",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\._Login_v6"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\._css",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\._css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\._fonts",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\._fonts"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\._images",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\._images"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\._index.html",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\._index.html"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\._js",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\._js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\._vendor",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\._vendor"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\css\\._main.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\css\\._main.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\css\\._util.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\css\\._util.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\._font-awesome-4.7.0",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\._font-awesome-4.7.0"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\._iconic",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\._iconic"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\._poppins",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\._poppins"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\._HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\._HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\._css",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\._css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\._fonts",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\._fonts"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\._less",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\._less"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\._scss",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\._scss"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\css\\._font-awesome.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\css\\._font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\css\\._font-awesome.min.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\css\\._font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\._FontAwesome.otf",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\._FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\._fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\._fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\._fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\._fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\._fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\._fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\._fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\._fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\._fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\fonts\\._fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\._animated.less",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\._animated.less"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\._bordered-pulled.less",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\._bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\._core.less",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\._core.less"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\._fixed-width.less",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\._fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\._font-awesome.less",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\._font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\._icons.less",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\._icons.less"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\._larger.less",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\._larger.less"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\._list.less",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\._list.less"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\._mixins.less",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\._mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\._path.less",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\._path.less"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\._rotated-flipped.less",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\._rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\._screen-reader.less",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\._screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\._stacked.less",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\._stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\._variables.less",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\less\\._variables.less"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\.__animated.scss",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\.__animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\.__bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\.__bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\.__core.scss",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\.__core.scss"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\.__fixed-width.scss",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\.__fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\.__icons.scss",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\.__icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\.__larger.scss",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\.__larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\.__list.scss",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\.__list.scss"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\.__mixins.scss",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\.__mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\.__path.scss",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\.__path.scss"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\.__rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\.__rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\.__screen-reader.scss",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\.__screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\.__stacked.scss",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\.__stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\.__variables.scss",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\.__variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\._font-awesome.scss",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\font-awesome-4.7.0\\scss\\._font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\iconic\\._css",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\iconic\\._css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\iconic\\._fonts",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\iconic\\._fonts"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\iconic\\css\\._material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\iconic\\css\\._material-design-iconic-font.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\iconic\\css\\._material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\iconic\\css\\._material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\iconic\\fonts\\._Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\iconic\\fonts\\._Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\iconic\\fonts\\._Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\iconic\\fonts\\._Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\iconic\\fonts\\._Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\iconic\\fonts\\._Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\iconic\\fonts\\._Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\iconic\\fonts\\._Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\iconic\\fonts\\._Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\iconic\\fonts\\._Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\fonts\\poppins\\._Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\images\\._avatar-01.jpg",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\images\\._avatar-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\images\\._icons",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\images\\._icons"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\images\\icons\\._favicon.ico",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\images\\icons\\._favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\js\\._main.js",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\js\\._main.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\._animate",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\._animate"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\._animsition",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\._animsition"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\._bootstrap",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\._bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\._countdowntime",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\._countdowntime"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\._css-hamburgers",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\._css-hamburgers"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\._daterangepicker",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\._daterangepicker"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\._jquery",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\._jquery"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\._perfect-scrollbar",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\._perfect-scrollbar"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\._select2",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\._select2"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\animate\\._animate.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\animate\\._animate.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\animsition\\._css",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\animsition\\._css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\animsition\\._js",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\animsition\\._js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\animsition\\css\\._animsition.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\animsition\\css\\._animsition.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\animsition\\css\\._animsition.min.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\animsition\\css\\._animsition.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\animsition\\js\\._animsition.js",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\animsition\\js\\._animsition.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\animsition\\js\\._animsition.min.js",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\animsition\\js\\._animsition.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\._css",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\._css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\._js",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\._js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\css\\._bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\css\\._bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\css\\._bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\css\\._bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\css\\._bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\css\\._bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\css\\._bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\css\\._bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\css\\._bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\css\\._bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\css\\._bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\css\\._bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\css\\._bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\css\\._bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\css\\._bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\css\\._bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\css\\._bootstrap.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\css\\._bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\css\\._bootstrap.css.map",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\css\\._bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\css\\._bootstrap.min.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\css\\._bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\css\\._bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\css\\._bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\js\\._bootstrap.js",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\js\\._bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\js\\._bootstrap.min.js",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\js\\._bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\js\\._popper.js",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\js\\._popper.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\js\\._popper.min.js",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\js\\._popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\js\\._tooltip.js",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\bootstrap\\js\\._tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\countdowntime\\._countdowntime.js",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\countdowntime\\._countdowntime.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\css-hamburgers\\._hamburgers.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\css-hamburgers\\._hamburgers.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\css-hamburgers\\._hamburgers.min.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\css-hamburgers\\._hamburgers.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\daterangepicker\\._daterangepicker.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\daterangepicker\\._daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\daterangepicker\\._daterangepicker.js",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\daterangepicker\\._daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\daterangepicker\\._moment.js",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\daterangepicker\\._moment.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\daterangepicker\\._moment.min.js",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\daterangepicker\\._moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\jquery\\._jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\jquery\\._jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\perfect-scrollbar\\._perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\perfect-scrollbar\\._perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\perfect-scrollbar\\._perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\perfect-scrollbar\\._perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\select2\\._select2.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\select2\\._select2.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\select2\\._select2.js",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\select2\\._select2.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\select2\\._select2.min.css",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\select2\\._select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\select2\\._select2.min.js",
+      "PackagePath": "staticwebassets\\login-form-v6\\__MACOSX\\Login_v6\\vendor\\select2\\._select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\about.html",
+      "PackagePath": "staticwebassets\\web\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\bread.html",
+      "PackagePath": "staticwebassets\\web\\bread.html"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\checkout.html",
+      "PackagePath": "staticwebassets\\web\\checkout.html"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\web\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\css\\creditly.css",
+      "PackagePath": "staticwebassets\\web\\css\\creditly.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\css\\easy-responsive-tabs.css",
+      "PackagePath": "staticwebassets\\web\\css\\easy-responsive-tabs.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\css\\flexslider.css",
+      "PackagePath": "staticwebassets\\web\\css\\flexslider.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\web\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\css\\style.css",
+      "PackagePath": "staticwebassets\\web\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\drinks.html",
+      "PackagePath": "staticwebassets\\web\\drinks.html"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\events.html",
+      "PackagePath": "staticwebassets\\web\\events.html"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\faqs.html",
+      "PackagePath": "staticwebassets\\web\\faqs.html"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\web\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\web\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\web\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\frozen.html",
+      "PackagePath": "staticwebassets\\web\\frozen.html"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\household.html",
+      "PackagePath": "staticwebassets\\web\\household.html"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\1.png",
+      "PackagePath": "staticwebassets\\web\\images\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\10.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\10.png",
+      "PackagePath": "staticwebassets\\web\\images\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\11.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\11.png",
+      "PackagePath": "staticwebassets\\web\\images\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\12.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\12.png",
+      "PackagePath": "staticwebassets\\web\\images\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\13.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\13.png",
+      "PackagePath": "staticwebassets\\web\\images\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\14.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\14.png",
+      "PackagePath": "staticwebassets\\web\\images\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\15.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\15.png",
+      "PackagePath": "staticwebassets\\web\\images\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\16.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\16.png",
+      "PackagePath": "staticwebassets\\web\\images\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\17.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\17.png",
+      "PackagePath": "staticwebassets\\web\\images\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\18.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\18.png",
+      "PackagePath": "staticwebassets\\web\\images\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\19.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\19.png",
+      "PackagePath": "staticwebassets\\web\\images\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\2.png",
+      "PackagePath": "staticwebassets\\web\\images\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\20.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\20.png",
+      "PackagePath": "staticwebassets\\web\\images\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\21.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\21.png",
+      "PackagePath": "staticwebassets\\web\\images\\21.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\22.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\22.png",
+      "PackagePath": "staticwebassets\\web\\images\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\23.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\23.png",
+      "PackagePath": "staticwebassets\\web\\images\\23.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\24.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\24.png",
+      "PackagePath": "staticwebassets\\web\\images\\24.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\25.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\25.png",
+      "PackagePath": "staticwebassets\\web\\images\\25.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\26.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\26.png",
+      "PackagePath": "staticwebassets\\web\\images\\26.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\27.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\27.png",
+      "PackagePath": "staticwebassets\\web\\images\\27.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\28.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\28.png",
+      "PackagePath": "staticwebassets\\web\\images\\28.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\29.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\29.png",
+      "PackagePath": "staticwebassets\\web\\images\\29.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\3.png",
+      "PackagePath": "staticwebassets\\web\\images\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\30.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\30.png",
+      "PackagePath": "staticwebassets\\web\\images\\30.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\31.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\31.png",
+      "PackagePath": "staticwebassets\\web\\images\\31.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\32.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\32.png",
+      "PackagePath": "staticwebassets\\web\\images\\32.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\33.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\33.png",
+      "PackagePath": "staticwebassets\\web\\images\\33.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\34.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\34.png",
+      "PackagePath": "staticwebassets\\web\\images\\34.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\35.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\35.png",
+      "PackagePath": "staticwebassets\\web\\images\\35.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\36.png",
+      "PackagePath": "staticwebassets\\web\\images\\36.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\37.png",
+      "PackagePath": "staticwebassets\\web\\images\\37.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\38.png",
+      "PackagePath": "staticwebassets\\web\\images\\38.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\39.png",
+      "PackagePath": "staticwebassets\\web\\images\\39.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\4.png",
+      "PackagePath": "staticwebassets\\web\\images\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\40.png",
+      "PackagePath": "staticwebassets\\web\\images\\40.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\41.png",
+      "PackagePath": "staticwebassets\\web\\images\\41.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\42.png",
+      "PackagePath": "staticwebassets\\web\\images\\42.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\43.png",
+      "PackagePath": "staticwebassets\\web\\images\\43.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\44.png",
+      "PackagePath": "staticwebassets\\web\\images\\44.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\45.png",
+      "PackagePath": "staticwebassets\\web\\images\\45.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\46.png",
+      "PackagePath": "staticwebassets\\web\\images\\46.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\47.png",
+      "PackagePath": "staticwebassets\\web\\images\\47.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\48.png",
+      "PackagePath": "staticwebassets\\web\\images\\48.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\49.png",
+      "PackagePath": "staticwebassets\\web\\images\\49.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\5.png",
+      "PackagePath": "staticwebassets\\web\\images\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\50.png",
+      "PackagePath": "staticwebassets\\web\\images\\50.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\51.png",
+      "PackagePath": "staticwebassets\\web\\images\\51.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\52.png",
+      "PackagePath": "staticwebassets\\web\\images\\52.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\53.png",
+      "PackagePath": "staticwebassets\\web\\images\\53.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\54.png",
+      "PackagePath": "staticwebassets\\web\\images\\54.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\55.png",
+      "PackagePath": "staticwebassets\\web\\images\\55.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\56.png",
+      "PackagePath": "staticwebassets\\web\\images\\56.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\57.png",
+      "PackagePath": "staticwebassets\\web\\images\\57.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\58.png",
+      "PackagePath": "staticwebassets\\web\\images\\58.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\59.png",
+      "PackagePath": "staticwebassets\\web\\images\\59.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\6.png",
+      "PackagePath": "staticwebassets\\web\\images\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\60.png",
+      "PackagePath": "staticwebassets\\web\\images\\60.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\61.png",
+      "PackagePath": "staticwebassets\\web\\images\\61.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\62.png",
+      "PackagePath": "staticwebassets\\web\\images\\62.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\63.png",
+      "PackagePath": "staticwebassets\\web\\images\\63.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\64.png",
+      "PackagePath": "staticwebassets\\web\\images\\64.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\65.png",
+      "PackagePath": "staticwebassets\\web\\images\\65.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\66.png",
+      "PackagePath": "staticwebassets\\web\\images\\66.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\67.png",
+      "PackagePath": "staticwebassets\\web\\images\\67.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\68.png",
+      "PackagePath": "staticwebassets\\web\\images\\68.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\69.png",
+      "PackagePath": "staticwebassets\\web\\images\\69.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\7.png",
+      "PackagePath": "staticwebassets\\web\\images\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\70.png",
+      "PackagePath": "staticwebassets\\web\\images\\70.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\71.png",
+      "PackagePath": "staticwebassets\\web\\images\\71.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\72.png",
+      "PackagePath": "staticwebassets\\web\\images\\72.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\73.png",
+      "PackagePath": "staticwebassets\\web\\images\\73.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\74.png",
+      "PackagePath": "staticwebassets\\web\\images\\74.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\75.png",
+      "PackagePath": "staticwebassets\\web\\images\\75.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\76.png",
+      "PackagePath": "staticwebassets\\web\\images\\76.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\8.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\8.png",
+      "PackagePath": "staticwebassets\\web\\images\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\9.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\9.png",
+      "PackagePath": "staticwebassets\\web\\images\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\web\\images\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\card.png",
+      "PackagePath": "staticwebassets\\web\\images\\card.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\cart.png",
+      "PackagePath": "staticwebassets\\web\\images\\cart.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\close_1.png",
+      "PackagePath": "staticwebassets\\web\\images\\close_1.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\img-sp.png",
+      "PackagePath": "staticwebassets\\web\\images\\img-sp.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\offer.png",
+      "PackagePath": "staticwebassets\\web\\images\\offer.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\paypal.png",
+      "PackagePath": "staticwebassets\\web\\images\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\star.png",
+      "PackagePath": "staticwebassets\\web\\images\\star.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\star1.png",
+      "PackagePath": "staticwebassets\\web\\images\\star1.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\images\\tag.png",
+      "PackagePath": "staticwebassets\\web\\images\\tag.png"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\index.html",
+      "PackagePath": "staticwebassets\\web\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\js\\counterup.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\js\\creditly.js",
+      "PackagePath": "staticwebassets\\web\\js\\creditly.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\js\\easing.js",
+      "PackagePath": "staticwebassets\\web\\js\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\js\\easyResponsiveTabs.js",
+      "PackagePath": "staticwebassets\\web\\js\\easyResponsiveTabs.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\js\\jquery-1.11.1.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\jquery-1.11.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\js\\jquery.flexslider.js",
+      "PackagePath": "staticwebassets\\web\\js\\jquery.flexslider.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\js\\jquery.wmuSlider.js",
+      "PackagePath": "staticwebassets\\web\\js\\jquery.wmuSlider.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\js\\minicart.js",
+      "PackagePath": "staticwebassets\\web\\js\\minicart.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\js\\move-top.js",
+      "PackagePath": "staticwebassets\\web\\js\\move-top.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\js\\okzoom.js",
+      "PackagePath": "staticwebassets\\web\\js\\okzoom.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\kitchen.html",
+      "PackagePath": "staticwebassets\\web\\kitchen.html"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\login.html",
+      "PackagePath": "staticwebassets\\web\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\mail.html",
+      "PackagePath": "staticwebassets\\web\\mail.html"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\payment.html",
+      "PackagePath": "staticwebassets\\web\\payment.html"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\pet.html",
+      "PackagePath": "staticwebassets\\web\\pet.html"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\privacy.html",
+      "PackagePath": "staticwebassets\\web\\privacy.html"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\products.html",
+      "PackagePath": "staticwebassets\\web\\products.html"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\services.html",
+      "PackagePath": "staticwebassets\\web\\services.html"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\short-codes.html",
+      "PackagePath": "staticwebassets\\web\\short-codes.html"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\single.html",
+      "PackagePath": "staticwebassets\\web\\single.html"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\vegetables.html",
+      "PackagePath": "staticwebassets\\web\\vegetables.html"
+    },
+    {
+      "Id": "C:\\Users\\sabit\\OneDrive\\Masaüstü\\p1\\FoodCore\\wwwroot\\web\\w3layouts-License.txt",
+      "PackagePath": "staticwebassets\\web\\w3layouts-License.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.FoodCore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.FoodCore.props",
+      "PackagePath": "build\\FoodCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.FoodCore.props",
+      "PackagePath": "buildMultiTargeting\\FoodCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.FoodCore.props",
+      "PackagePath": "buildTransitive\\FoodCore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
